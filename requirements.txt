@@ -1,0 +1,7 @@
+re
+tkinter
+pdfplumber
+docx
+exceptions
+pandas
+
