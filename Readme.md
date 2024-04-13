@@ -1,4 +1,4 @@
-################################### EXTRACTER FROM CVs ########################################
+> EXTRACTER FROM CVs
 
 # INTRODUCTION
 * This project is about extracting information from CVs. The information extracted is the name, email,phone number.
